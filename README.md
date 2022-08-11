@@ -1,8 +1,9 @@
 
 # Install the prerequisite applications, powertools and libmodplug
 
-- https://github.com/computate-org/computate_powertools
-- https://github.com/computate-org/computate_libmodplug
+- https://github.com/computate-org/computate_libtool
+- https://github.com/computate-org/computate_autoconf
+- https://github.com/computate-org/computate_automake
 
 # Install the libcaca ansible role
 
